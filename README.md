@@ -1,3 +1,4 @@
 # test
 # main branch
-asdasdasd
+npx create-next-app test-app
+npx create-react-app default-app
